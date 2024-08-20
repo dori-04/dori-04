@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 안녕하세요 홍익대학교 컴퓨터공학과 24학번 고영준입니다. 
+# 아
 <!--
 **dori-04/dori-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
