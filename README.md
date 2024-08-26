@@ -7,6 +7,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dori-04&theme=dracula)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dori-04&theme=react-dark)
+
+
 
 <!--
 **dori-04/dori-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
